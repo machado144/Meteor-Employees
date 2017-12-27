@@ -27,7 +27,8 @@ class EmployeeList extends Component {
       <button onClick={this.handleButtonClick.bind(this)}
           className="btn btn-primary center-block">
           Load More...
-        </button>
+      </button>
+      <br />
       </div>
     )
   }
